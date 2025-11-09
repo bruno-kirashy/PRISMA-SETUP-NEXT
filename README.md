@@ -60,7 +60,6 @@ Para:
 ```prisma
 generator client {
   provider = "prisma-client-js"
-  output   = "../app/generated/prisma"
 }
 ```
 
